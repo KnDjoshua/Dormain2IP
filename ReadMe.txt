@@ -26,7 +26,7 @@
 
 ### :running: Run Locally
 
-Clone the project
+Clone this project
 
 ```bash
 https://github.com/KnDjoshua/Dormain2IP
